@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432500186694",
+    "firebase_url": "https://moviesuggesting.firebaseio.com",
+    "project_id": "moviesuggesting",
+    "storage_bucket": "moviesuggesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432500186694:android:4475d091cb032986153447",
+        "android_client_info": {
+          "package_name": "com.moviesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432500186694-9kd7h69lvbs920mfdup9p6vugn9du074.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moviesapp",
+            "certificate_hash": "bdd5e1a1d8c8017ad1617fdd979c6301013c6e6a"
+          }
+        },
+        {
+          "client_id": "432500186694-37umbajpkau6qeq0rvtcl860fevbb28u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwYGl48wb-oVCxaBdqkujSNwnC8su_Hc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432500186694-37umbajpkau6qeq0rvtcl860fevbb28u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
