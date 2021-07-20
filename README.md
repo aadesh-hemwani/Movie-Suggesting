@@ -1,6 +1,9 @@
-# moviesapp
+# Movie Suggesting
 
-A new Flutter application.
+<img src="https://flutter.dev/images/flutter-logo-sharing.png" height="150" width="auto">
+
+## Screenshots
+<img src="images/screenshots/login.png" height="450" width="auto"><img src="images/screenshots/profile.png" height="450" width="auto"><img src="images/screenshots/search_section.png" height="450" width="auto"><img src="images/screenshots/search_section_dark.png" height="450" width="auto"><img src="images/screenshots/search_movie.png" height="450" width="auto">
 
 ## Getting Started
 
